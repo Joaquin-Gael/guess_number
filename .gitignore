@@ -1,4 +1,4 @@
-./data/
-./models/
-./.streamlit/
-./.idea/
+data/
+models/
+.streamlit/
+.idea/
