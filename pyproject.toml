@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "guess-number"
+version = "0.1.0"
+description = ""
+authors = ["git-Joaquin-Gael <guzmanantonio867@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.41.1"
+streamlit-drawable-canvas = "^0.9.3"
+plotly = "^5.24.1"
+numpy = "^2.2.1"
+polars = "^1.19.0"
+torch = "^2.5.1"
+torchvision = "^0.20.1"
+tqdm = "^4.67.1"
+streamlit-card = "^1.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
